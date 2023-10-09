@@ -6,4 +6,5 @@ use (
     ./constants
     ./for
     ./ifelse
+    ./switch
 )
